@@ -1,8 +1,10 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
-
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarvesh-patil&"  />
+  <img src="https://komarev.com/ghpvc/?username=sarvesh-patil&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh-patil" />
+</div>
 
 <div align="center">
   <a href="www.linkedin.com/in/sarvesh-patil1611" target="_blank">
@@ -13,9 +15,7 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
-###
-
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi, I'm Sarvesh Patil 👋</h1>
 
 ###
 
@@ -23,7 +23,16 @@
 
 ###
 
-<p align="left">I'm Sarvesh  from India<br><br>- 🔭 I’m working as Frontend Engineer lead<br>- 📚 I'm currently learning AWS services<br>- ⚡ In my free time spends on articles</p>
+<p align="left">👋 I'm a passionate frontend developer with over 7+ years of experience working with a diverse range of clients. I have a strong focus on creating highly engaging and user-friendly web applications that deliver an exceptional user experience. My expertise lies in a variety of technologies, allowing me to adapt quickly to new projects and provide efficient solutions.<br><br>- 🔭 I’m working as Frontend Engineer lead<br>-📚 I'm currently learning AWS services<br>- ⚡ In my free time spends on articles</p>
+
+###
+
+<div align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh-patil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarvesh-patil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ###
 
@@ -116,4 +125,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
+
+###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvesh-patil" alt="sarvesh-patil" /></a> </p>
 
