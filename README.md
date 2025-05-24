@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">👋 I'm a passionate frontend developer with over 8+ years of experience working with a diverse range of clients. I have a strong focus on creating highly engaging and user-friendly web applications that deliver an exceptional user experience. My expertise lies in a variety of technologies, allowing me to adapt quickly to new projects and provide efficient solutions.<br><br>- 🔭 I’m working as Frontend Engineer lead<br>-📚 I'm currently learning AWS services<br>- ⚡ In my free time spends on articles</p>
+<p align="left">👋 I'm a passionate frontend developer with over 10+ years of experience working with a diverse range of clients. I have a strong focus on creating highly engaging and user-friendly web applications that deliver an exceptional user experience. My expertise lies in a variety of technologies, allowing me to adapt quickly to new projects and provide efficient solutions.<br><br>- 🔭 I’m working as Frontend Engineer lead<br>-📚 I'm currently learning AWS services<br>- ⚡ In my free time spends on articles</p>
 
 ###
 
